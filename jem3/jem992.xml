@@ -1,0 +1,2578 @@
+<?xml version="1.0" encoding="UTF-8" standalone='no'?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 1.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise>
+<work>
+<work-title>Merci pour la croix</work-title>
+</work>
+<identification>
+<creator type="transcriber">Matt Marvane</creator>
+<rights>© 2008 Matt Marvane</rights>
+<encoding>
+<software>Noteworthy Composer</software>
+<encoding-date>2015-06-27</encoding-date>
+</encoding>
+</identification>
+<part-list>
+<score-part id="P1">
+<part-name>Mélodie</part-name>
+<score-instrument id="P1-I1">
+<instrument-name>String Ensemble 1</instrument-name>
+</score-instrument>
+<midi-instrument id="P1-I1">
+<midi-channel>1</midi-channel>
+<midi-program>50</midi-program>
+</midi-instrument>
+</score-part>
+</part-list>
+<part id="P1">
+<measure number="1">
+<attributes>
+<divisions>16</divisions>
+</attributes>
+<attributes>
+<clef>
+<sign>G</sign>
+<line>2</line>
+</clef>
+</attributes>
+<attributes>
+<key>
+<fifths>3</fifths>
+</key>
+</attributes>
+<attributes>
+<time>
+<beats>4</beats>
+<beat-type>4</beat-type>
+</time>
+</attributes>
+<direction>
+<direction-type>
+<metronome parentheses="no">
+<beat-unit>quarter</beat-unit>
+<per-minute>80</per-minute>
+</metronome>
+</direction-type>
+<sound tempo="80"/>
+</direction>
+<note>
+<rest/>
+<duration>16</duration>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>1. On</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>2. Tant</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>a</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>de</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>tant</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>haine</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="stop"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>par</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>et</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>lé</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>de</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="stop"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>de</text>
+</lyric>
+<lyric number="2">
+<syllabic>begin</syllabic>
+<text>vio</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>lui</text>
+</lyric>
+<lyric number="2">
+<syllabic>end</syllabic>
+<text>lence</text>
+</lyric>
+</note>
+</measure>
+<measure number="2">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<tie type="stop"/>
+<type>quarter</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<rest/>
+<duration>16</duration>
+<type>quarter</type>
+</note>
+<note>
+<rest/>
+<duration>32</duration>
+<type>half</type>
+</note>
+</measure>
+<measure number="3">
+<note>
+<rest/>
+<duration>16</duration>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>Et</text>
+</lyric>
+<lyric number="2">
+<syllabic>begin</syllabic>
+<text>Sup</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>tant</text>
+</lyric>
+<lyric number="2">
+<syllabic>middle</syllabic>
+<text>por</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>mé</text>
+</lyric>
+<lyric number="2">
+<syllabic>end</syllabic>
+<text>tées</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="stop"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>middle</syllabic>
+<text>pri</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>dans</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>sé</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>le</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<tie type="stop"/>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>aus</text>
+</lyric>
+<lyric number="2">
+<syllabic>begin</syllabic>
+<text>si</text>
+</lyric>
+</note>
+</measure>
+<measure number="4">
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<tie type="stop"/>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>si.</text>
+</lyric>
+<lyric number="2">
+<syllabic>end</syllabic>
+<text>lence.</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<tie type="stop"/>
+<type>quarter</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<rest/>
+<duration>32</duration>
+<type>half</type>
+</note>
+</measure>
+<measure number="5">
+<note>
+<rest/>
+<duration>16</duration>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>On</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>Le</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>a</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>sang</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>vou</text>
+</lyric>
+<lyric number="2">
+<syllabic>begin</syllabic>
+<text>cou</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="stop"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>lu</text>
+</lyric>
+<lyric number="2">
+<syllabic>end</syllabic>
+<text>le</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>l'ef</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>sur</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="stop"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>middle</syllabic>
+<text>fa</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>la</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>cer</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>croix,</text>
+</lyric>
+</note>
+</measure>
+<measure number="6">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<tie type="stop"/>
+<type>quarter</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<rest/>
+<duration>16</duration>
+<type>quarter</type>
+</note>
+<note>
+<rest/>
+<duration>32</duration>
+<type>half</type>
+</note>
+</measure>
+<measure number="7">
+<note>
+<rest/>
+<duration>16</duration>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>En</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>Je</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>lui</text>
+</lyric>
+<lyric number="2">
+<syllabic>begin</syllabic>
+<text>m'ap</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>per</text>
+</lyric>
+<lyric number="2">
+<syllabic>end</syllabic>
+<text>proche</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="stop"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>çant</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>près</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>les</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>de</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="stop"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>deux</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>ce</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>pieds.</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>bois.</text>
+</lyric>
+</note>
+</measure>
+<measure number="8">
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<tie type="stop"/>
+<type>quarter</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<rest/>
+<duration>16</duration>
+<type>quarter</type>
+</note>
+<note>
+<rest/>
+<duration>32</duration>
+<type>half</type>
+</note>
+</measure>
+<measure number="9">
+<note>
+<rest/>
+<duration>16</duration>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>Pro</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>À</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>middle</syllabic>
+<text>vo</text>
+</lyric>
+<lyric number="2">
+<syllabic>begin</syllabic>
+<text>ge</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>quer</text>
+</lyric>
+<lyric number="2">
+<syllabic>end</syllabic>
+<text>noux</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>4</duration>
+<tie type="stop"/>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>l'hu</text>
+</lyric>
+<lyric number="2">
+<syllabic>begin</syllabic>
+<text>de</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>middle</syllabic>
+<text>mi</text>
+</lyric>
+<lyric number="2">
+<syllabic>end</syllabic>
+<text>vant</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<tie type="stop"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>middle</syllabic>
+<text>lia</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>ta</text>
+</lyric>
+</note>
+</measure>
+<measure number="10">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="stop"/>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>tion</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>face,</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<tie type="stop"/>
+<type>quarter</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<rest/>
+<duration>32</duration>
+<type>half</type>
+</note>
+</measure>
+<measure number="11">
+<note>
+<rest/>
+<duration>16</duration>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>En</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>Je</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>le</text>
+</lyric>
+<lyric number="2">
+<syllabic>begin</syllabic>
+<text>re</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>clou</text>
+</lyric>
+<lyric number="2">
+<syllabic>end</syllabic>
+<text>çois</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>4</duration>
+<tie type="stop"/>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>ant</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>ta</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>sans</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>pure</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<tie type="stop"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>rai</text>
+</lyric>
+<lyric number="2">
+<syllabic>begin</syllabic>
+<text>grâ</text>
+</lyric>
+</note>
+</measure>
+<measure number="12">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="stop"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>son.</text>
+</lyric>
+<lyric number="2">
+<syllabic>end</syllabic>
+<text>ce.</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>16</duration>
+<tie type="stop"/>
+<type>quarter</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<rest/>
+<duration>32</duration>
+<type>half</type>
+</note>
+</measure>
+<measure number="13">
+<note>
+<rest/>
+<duration>16</duration>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>On</text>
+</lyric>
+<lyric number="2">
+<syllabic>begin</syllabic>
+<text>J'é</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>a</text>
+</lyric>
+<lyric number="2">
+<syllabic>middle</syllabic>
+<text>lè</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>cra</text>
+</lyric>
+<lyric number="2">
+<syllabic>end</syllabic>
+<text>ve</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>4</duration>
+<tie type="stop"/>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>ché</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>mes</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>sur</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>mains</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<tie type="stop"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>ce</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>vers</text>
+</lyric>
+</note>
+</measure>
+<measure number="14">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="stop"/>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>lui</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>toi,</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<tie type="stop"/>
+<type>quarter</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<rest/>
+<duration>32</duration>
+<type>half</type>
+</note>
+</measure>
+<measure number="15">
+<note>
+<rest/>
+<duration>16</duration>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>Dont</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>Je</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>le</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>veux</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>vi</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>que</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>4</duration>
+<tie type="stop"/>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>sage</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>tu</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>au</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>guides</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="stop"/>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">end</beam>
+<lyric number="1">
+<syllabic>middle</syllabic>
+<text>jour</text>
+</lyric>
+<lyric number="2">
+<syllabic>begin</syllabic>
+<text>cha</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>16th</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>d'hui</text>
+</lyric>
+<lyric number="2">
+<syllabic>end</syllabic>
+<text>cun</text>
+</lyric>
+</note>
+</measure>
+<measure number="16">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>16</duration>
+<tie type="stop"/>
+<type>quarter</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<rest/>
+<duration>16</duration>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<type>quarter</type>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>m'é</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>de</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>middle</syllabic>
+<text>blou</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>mes</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>it.</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>pas.</text>
+</lyric>
+</note>
+</measure>
+<measure number="17">
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>32</duration>
+<tie type="start"/>
+<type>half</type>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>Jé</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<tie type="stop"/>
+<type>eighth</type>
+<notations>
+<tied type="stop"/>
+<slur type="start" number="1"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<type>quarter</type>
+<notations>
+<slur type="continue" number="1"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<notations>
+<slur type="stop" number="1"/>
+</notations>
+</note>
+</measure>
+<measure number="18">
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>32</duration>
+<type>half</type>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>sus,</text>
+</lyric>
+</note>
+<note>
+<rest/>
+<duration>32</duration>
+<type>half</type>
+</note>
+</measure>
+<measure number="19">
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>32</duration>
+<tie type="start"/>
+<type>half</type>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>Jé</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<tie type="stop"/>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+<slur type="start" number="1"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<slur type="continue" number="1"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<notations>
+<slur type="stop" number="1"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>sus.</text>
+</lyric>
+</note>
+</measure>
+<measure number="20">
+<barline location="left">
+<bar-style>heavy-light</bar-style>
+</barline>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<tie type="stop"/>
+<type>quarter</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<rest/>
+<duration>8</duration>
+<type>eighth</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>Mer</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>ci</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>pour</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>la</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>croix,</text>
+</lyric>
+</note>
+</measure>
+<measure number="21">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>48</duration>
+<tie type="stop"/>
+<type>half</type>
+<dot/>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="stop"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+<slur type="start" number="1"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+<slur type="stop" number="1"/>
+</notations>
+</note>
+</measure>
+<measure number="22">
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<tie type="stop"/>
+<type>quarter</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<rest/>
+<duration>16</duration>
+<type>quarter</type>
+</note>
+<note>
+<rest/>
+<duration>8</duration>
+<type>eighth</type>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>Pour</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>ton</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>sa</text>
+</lyric>
+</note>
+</measure>
+<measure number="23">
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>16</duration>
+<tie type="stop"/>
+<type>quarter</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>middle</syllabic>
+<text>cri</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>fice</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="stop"/>
+<type>eighth</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<type>quarter</type>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>par</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>fait.</text>
+</lyric>
+</note>
+</measure>
+<measure number="24">
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>24</duration>
+<tie type="stop"/>
+<type>quarter</type>
+<dot/>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>Mer</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>ci</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>pour</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>la</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>croix,</text>
+</lyric>
+</note>
+</measure>
+<measure number="25">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>48</duration>
+<tie type="stop"/>
+<type>half</type>
+<dot/>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="stop"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+<slur type="start" number="1"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+<slur type="stop" number="1"/>
+</notations>
+</note>
+</measure>
+<measure number="26">
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<tie type="stop"/>
+<type>quarter</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<rest/>
+<duration>16</duration>
+<type>quarter</type>
+</note>
+<note>
+<rest/>
+<duration>8</duration>
+<type>eighth</type>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>Pour</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>ton</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>a</text>
+</lyric>
+</note>
+</measure>
+<measure number="27">
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>16</duration>
+<tie type="stop"/>
+<type>quarter</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>mour</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>si</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<tie type="stop"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>grand</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>et</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>down</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>vrai.</text>
+</lyric>
+</note>
+</measure>
+<measure number="28">
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<tie type="stop"/>
+<type>quarter</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<rest/>
+<duration>16</duration>
+<type>quarter</type>
+</note>
+<note>
+<rest/>
+<duration>32</duration>
+<type>half</type>
+</note>
+<barline location="right">
+<bar-style>light-heavy</bar-style>
+<repeat direction="backward"/>
+</barline>
+<barline location="right">
+<bar-style>light-heavy</bar-style>
+</barline>
+</measure>
+</part>
+</score-partwise>

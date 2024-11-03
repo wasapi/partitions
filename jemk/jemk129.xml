@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8" standalone='no'?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 1.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise>
+<work>
+<work-title>Bouton d'or</work-title>
+</work>
+<identification>
+<creator type="transcriber">Reina van Essen</creator>
+<rights>© Reina van Essen</rights>
+<encoding>
+<software>Noteworthy Composer</software>
+<encoding-date>2013-01-12</encoding-date>
+</encoding>
+</identification>
+<part-list>
+<score-part id="P1">
+<part-name>Mélodie</part-name>
+<score-instrument id="P1-I1">
+<instrument-name>String Ensemble 1</instrument-name>
+</score-instrument>
+<midi-instrument id="P1-I1">
+<midi-channel>1</midi-channel>
+<midi-program>50</midi-program>
+</midi-instrument>
+</score-part>
+</part-list>
+<part id="P1">
+<measure number="1">
+<attributes>
+<divisions>8</divisions>
+</attributes>
+<attributes>
+<clef>
+<sign>G</sign>
+<line>2</line>
+</clef>
+</attributes>
+<attributes>
+<time>
+<beats>4</beats>
+<beat-type>4</beat-type>
+</time>
+</attributes>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>quarter</type>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>1. Bou</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>2. Beau</text>
+</lyric>
+<lyric number="3">
+<syllabic>single</syllabic>
+<text>3. Bzz,</text>
+</lyric>
+<lyric number="4">
+<syllabic>single</syllabic>
+<text>4. Toi</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>ton</text>
+</lyric>
+<lyric number="2">
+<syllabic>begin</syllabic>
+<text>pois</text>
+</lyric>
+<lyric number="3">
+<syllabic>single</syllabic>
+<text>bzz,</text>
+</lyric>
+<lyric number="4">
+<syllabic>single</syllabic>
+<text>et</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>d'or</text>
+</lyric>
+<lyric number="2">
+<syllabic>end</syllabic>
+<text>son</text>
+</lyric>
+<lyric number="3">
+<syllabic>single</syllabic>
+<text>bzz,</text>
+</lyric>
+<lyric number="4">
+<syllabic>single</syllabic>
+<text>moi,</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<tie type="stop"/>
+<type>half</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+</measure>
+<measure number="2">
+<note>
+<pitch>
+<step>F</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>quarter</type>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>dans</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>dans</text>
+</lyric>
+<lyric number="3">
+<syllabic>single</syllabic>
+<text>c'est</text>
+</lyric>
+<lyric number="4">
+<syllabic>single</syllabic>
+<text>tous</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>le</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>ton</text>
+</lyric>
+<lyric number="3">
+<syllabic>begin</syllabic>
+<text>l'a</text>
+</lyric>
+<lyric number="4">
+<syllabic>begin</syllabic>
+<text>ain</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>pré,</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>eau,</text>
+</lyric>
+<lyric number="3">
+<syllabic>end</syllabic>
+<text>beille,</text>
+</lyric>
+<lyric number="4">
+<syllabic>end</syllabic>
+<text>si,</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<tie type="stop"/>
+<type>half</type>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+</measure>
+<measure number="3">
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>Dieu</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>Dieu</text>
+</lyric>
+<lyric number="3">
+<syllabic>single</syllabic>
+<text>Dieu</text>
+</lyric>
+<lyric number="4">
+<syllabic>begin</syllabic>
+<text>Cré</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="start"/>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<notations>
+<tied type="start"/>
+</notations>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>t'a</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>t'a</text>
+</lyric>
+<lyric number="3">
+<syllabic>single</syllabic>
+<text>t'a</text>
+</lyric>
+<lyric number="4">
+<syllabic>end</syllabic>
+<text>és</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<tie type="stop"/>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">begin</beam>
+<notations>
+<tied type="stop"/>
+</notations>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<type>eighth</type>
+<stem>up</stem>
+<beam number="1">continue</beam>
+<lyric number="1">
+<syllabic>begin</syllabic>
+<text>cré</text>
+</lyric>
+<lyric number="2">
+<syllabic>begin</syllabic>
+<text>cré</text>
+</lyric>
+<lyric number="3">
+<syllabic>begin</syllabic>
+<text>cré</text>
+</lyric>
+<lyric number="4">
+<syllabic>single</syllabic>
+<text>par</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>quarter</type>
+<lyric number="1">
+<syllabic>end</syllabic>
+<text>é,</text>
+</lyric>
+<lyric number="2">
+<syllabic>end</syllabic>
+<text>é,</text>
+</lyric>
+<lyric number="3">
+<syllabic>end</syllabic>
+<text>ée,</text>
+</lyric>
+<lyric number="4">
+<syllabic>single</syllabic>
+<text>Dieu,</text>
+</lyric>
+</note>
+<note>
+<rest/>
+<duration>8</duration>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="4">
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>quarter</type>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>il</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>il</text>
+</lyric>
+<lyric number="3">
+<syllabic>single</syllabic>
+<text>il</text>
+</lyric>
+<lyric number="4">
+<syllabic>single</syllabic>
+<text>c'est</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>quarter</type>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>m'a</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>m'a</text>
+</lyric>
+<lyric number="3">
+<syllabic>single</syllabic>
+<text>m'a</text>
+</lyric>
+<lyric number="4">
+<syllabic>begin</syllabic>
+<text>heu</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<type>quarter</type>
+<lyric number="1">
+<syllabic>single</syllabic>
+<text>fait.</text>
+</lyric>
+<lyric number="2">
+<syllabic>single</syllabic>
+<text>fait.</text>
+</lyric>
+<lyric number="3">
+<syllabic>single</syllabic>
+<text>fait.</text>
+</lyric>
+<lyric number="4">
+<syllabic>end</syllabic>
+<text>reux.</text>
+</lyric>
+</note>
+<note>
+<rest/>
+<duration>8</duration>
+<type>quarter</type>
+</note>
+<barline location="right">
+<bar-style>light-heavy</bar-style>
+<repeat direction="backward" times="4"/>
+</barline>
+<barline location="right">
+<bar-style>light-heavy</bar-style>
+</barline>
+</measure>
+</part>
+</score-partwise>
